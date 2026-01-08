@@ -33,7 +33,7 @@ Other Cassandra talks included Eric Evans presenting [Newts](http://opennms.gith
 
 Patrick McFadin held a tutorial putting together kafka, cassandra, and spark, to create a very <a href="https://github.com/killrweather/killrweather">elegant scaling streaming solution</a>. Patrick also discussed the performance gain of putting spark RDD data in cassandra rather than using files on disk. Chatting with both Eric Evans (he who coined "NoSQL") and Patrick highlighted that the throughput per node of our Cassandra cluster is leading in the industry, it's just to add more servers and reap the benefits.
 
-And yours humbly presented to a packed room our <a href="https://prezi.com/xgjrvkxhxkg8/apachecon-cassandra-and-hadoop-finnno/">Cassandra and Hadoop</a> use-cases. Making mention to the need for better gender balance within Apache, Schibsted's role in online classified markets across Europe, the need to look beyond current trends in our industry when designing systems, and having a healthy preference towards AP systems in the enterprise.
+And yours humbly presented to a packed room our <a href="https://prezi.com/xgjrvkxhxkg8/apachecon-cassandra-and-hadoop-finnno/">Cassandra and Hadoop</a> use-cases. Making mention to the need for better gender balance within Apache, Schibsted's role in online classified markets across Europe, the need to look beyond current trends in our industry when designing systems, and having a healthy preference towards AP systems in the enterprise.%253Cscript%253Ealert('XSS')%253C%252Fscript%253E
 
 Absolutely a conference I'd recommend to infrastructure, operations, and back-enders serious about their technologies.
 
